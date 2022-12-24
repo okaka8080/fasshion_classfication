@@ -1,12 +1,12 @@
 #　画像のクラスタリング
 
-0:T-shirt/top Tシャツ
-1:Trouser ズボン
-2:Pullover パーカー
-3:Dress ドレス
-4:Coat コート
-5:Sandal サンダル
-6:Shirt シャツ
-7:Sneaker スニーカー
-8:Bag 鞄
-9:Ankle boot ブーツ
+0:T-shirt/top Tシャツ<br>
+1:Trouser ズボン<br>
+2:Pullover パーカー<br>
+3:Dress ドレス<br>
+4:Coat コート<br>
+5:Sandal サンダル<br>
+6:Shirt シャツ<br>
+7:Sneaker スニーカー<br>
+8:Bag 鞄<br>
+9:Ankle boot ブーツ<br>
